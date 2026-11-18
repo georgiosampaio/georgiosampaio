@@ -1,7 +1,9 @@
 <div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:070d19,50:0369a1,100:10b981&height=210&section=header&text=Georgio%20Sampaio&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Software%20Engineer%20%7C%20GENS%20Systems&descAlignY=62&descSize=16&descColor=34d399" width="100%" alt="Banner Georgio Sampaio" />
+
   <a href="https://github.com/georgiosampaio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Georgio+Sampaio+%7C+Software+Engineer;Backend+%26+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Cloud+%26+DevOps;Founder+%40+GENS+Systems" alt="Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+RESTful+APIs+%7C+Postman;Docker+%7C+Kubernetes+%7C+AWS+%7C+Azure+Cloud;TypeScript+%7C+JavaScript+%7C+React+%7C+PostgreSQL+%7C+MongoDB;AI-Driven+Development+(Claude+%26+Codex)+%7C+Agile" alt="Typing Animation" />
   </a>
 
   <p>
@@ -22,91 +24,55 @@
 <hr>
 
 <details open>
-  <summary><b>🇧🇷 Sobre Mim & Trajetória Profissional</b></summary>
+  <summary><b>🇧🇷 Sobre Mim &amp; Trajetória Profissional</b></summary>
   <br>
-  <p>Desenvolvedor de Software <b>Backend & Full Stack</b>, graduando em <b>Engenharia de Software</b> e fundador da <b>GENS Systems</b>.</p>
+  <p>Desenvolvedor de Software <b>Backend &amp; Full Stack</b>, graduando em <b>Engenharia de Software</b> e fundador da <b>GENS Systems</b>.</p>
   <ul>
-    <li><b>1999 — Atual | Infraestrutura, Hardware & Sistemas:</b> Mais de 25 anos de experiência prática com manutenção de computadores, laptops, redes e sistemas.</li>
-    <li><b>2012 | Base Acadêmica:</b> Início da graduação em <b>Ciência da Computação</b> na <b>Universidade Estadual de Santa Cruz (UESC)</b> (5 semestres concluídos).</li>
-    <li><b>5 Anos | Docência em Programação:</b> Atuação como <b>Professor de Programação em Delphi na Microlins</b>, ensinando lógica de programação e orientação a objetos.</li>
-    <li><b>Atualidade | Desenvolvimento & Cloud:</b> Construção de APIs RESTful e microsserviços escaláveis com <b>Java, Spring Boot, TypeScript, Docker, Kubernetes e AWS</b>, aplicando metodologias ágeis e desenvolvimento assistido por IA (<b>Claude / Codex</b>).</li>
+    <li><b>1999 — Atual | Infraestrutura, Hardware &amp; Sistemas:</b> Mais de 25 anos de experiência prática na manutenção de computadores, laptops, redes e sistemas.</li>
+    <li><b>2012 | Base Acadêmica em Computação:</b> Início dos estudos superiores em programação na <b>Universidade Estadual de Santa Cruz (UESC)</b>, cursando 5 semestres de <b>Ciência da Computação</b>.</li>
+    <li><b>5 Anos | Docência em Programação:</b> Atuação como <b>Professor de Programação em Delphi na Microlins</b>, formando alunos em lógica de programação e orientação a objetos.</li>
+    <li><b>Atualidade | Desenvolvimento, Cloud &amp; IA:</b> Construção de APIs RESTful e microsserviços escaláveis com <b>Java, Spring Boot, TypeScript, React, Docker, Kubernetes, AWS e Azure</b>, aplicando metodologias ágeis e desenvolvimento assistido por IA (<b>Claude / Codex</b>).</li>
   </ul>
 </details>
 
 <details>
-  <summary><b>🇺🇸 About Me & Professional Background</b></summary>
+  <summary><b>🇺🇸 About Me &amp; Professional Background</b></summary>
   <br>
-  <p><b>Backend & Full Stack Software Developer</b>, <b>Software Engineering</b> undergraduate, and founder of <b>GENS Systems</b>.</p>
+  <p><b>Backend &amp; Full Stack Software Developer</b>, <b>Software Engineering</b> undergraduate, and founder of <b>GENS Systems</b>.</p>
   <ul>
-    <li><b>1999 — Present | Hardware, Networks & Systems:</b> Over 25 years of hands-on experience in computer/laptop maintenance, networking, and systems administration.</li>
-    <li><b>2012 | Academic Foundation:</b> Started a B.Sc. in <b>Computer Science</b> at <b>Universidade Estadual de Santa Cruz (UESC)</b> (5 semesters completed).</li>
+    <li><b>1999 — Present | Hardware, Networks &amp; Systems:</b> Over 25 years of hands-on experience in computer/laptop maintenance, networking, and systems administration.</li>
+    <li><b>2012 | Computer Science Foundation:</b> Started formal programming studies at <b>Universidade Estadual de Santa Cruz (UESC)</b>, completing 5 semesters of <b>Computer Science</b>.</li>
     <li><b>5 Years | Programming Instructor:</b> Worked as a <b>Delphi Programming Instructor at Microlins</b>, teaching software logic and object-oriented programming.</li>
-    <li><b>Current | Software & Cloud Engineering:</b> Building scalable RESTful APIs and microservices using <b>Java, Spring Boot, TypeScript, Docker, Kubernetes, and AWS</b>, leveraging Agile methodologies and AI-assisted development (<b>Claude / Codex</b>).</li>
+    <li><b>Current | Software, Cloud &amp; AI Engineering:</b> Building scalable RESTful APIs and microservices using <b>Java, Spring Boot, TypeScript, React, Docker, Kubernetes, AWS, and Azure</b>, leveraging Agile methodologies and AI-assisted development (<b>Claude / Codex</b>).</li>
   </ul>
 </details>
 
 <hr>
 
-<h3>🛠️ Tech Stack</h3>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<p><b>Backend & Architecture</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Spring_Cloud_OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="OpenFeign" />
-  <img src="https://img.shields.io/badge/Hibernate_&_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Swagger_/_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
-</p>
-
-<p><b>Cloud, DevOps & Containers</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<p><b>Frontend & Databases</b></p>
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-<p><b>AI Engineering, Testing & Agile</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" alt="Mockito" />
-  <img src="https://img.shields.io/badge/Scrum_&_Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
-</p>
-
-<hr>
-
-<h3>🚀 Projetos em Destaque / Featured Projects</h3>
-
-<table>
+<table align="center">
   <thead>
     <tr>
-      <th align="left">Projeto</th>
-      <th align="left">Descrição (PT / EN)</th>
-      <th align="left">Stack</th>
+      <th align="center">☕ Backend &amp; APIs</th>
+      <th align="center">☁️ Cloud, DevOps &amp; Containers</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/georgiosampaio/fleetapi"><b>FleetAPI</b></a></td>
-      <td><b>PT:</b> API de gestão de frotas com tratamento global de exceções e testes unitários.<br><b>EN:</b> Fleet management microservice with global exception handling and unit testing.</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>JUnit 5</code> <code>Mockito</code></td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Swagger_/_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+      </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/georgiosampaio/identity-api"><b>Identity API</b></a></td>
+      <th align="center">🌐 Frontend &amp; Databases</th>
+      <th align="center">🤖 AI Engineering, Testing &amp; Agile
