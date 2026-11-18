@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/georgiosampaio">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=root%40gens-systems%3A~%23+.%2Finit_profile.sh+--user%3D%22Georgio+Sampaio%22;Full+Stack+%26+Backend+Engineer+%7C+Java+%26+Spring+Ecosystem;Cloud+%7C+Docker+%7C+Kubernetes+%7C+AWS+%7C+AI-Driven+Dev;25%2B+Years+in+Tech+%7C+Software+Engineering+%40+GENS+Systems" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=root%40gens-systems%3A~%23+.%2Finit_profile.sh+--user%3D%22Georgio+Sampaio%22;Full+Stack+%26+Backend+Engineer+%7C+Java+%26+Spring+Ecosystem;Cloud+%7C+Docker+%7C+Kubernetes+%7C+AWS+%7C+AI-Driven+Dev;25%2B+Years+in+Tech+%7C+Software+Engineering+%40+GENS+Systems" alt="Terminal Typing" />
   </a>
 
   <p>
@@ -42,7 +42,7 @@
 <h3>📂 Explorador Interativo do Sistema <em>(Clique nas seções abaixo para expandir)</em></h3>
 
 <details open>
-  <summary><b>🇧🇷 [PT-BR] Trajetória & Experiência Técnica (1999 — Presente)</b></summary>
+  <summary><b>[PT-BR] Trajetória & Experiência Técnica (1999 — Presente)</b></summary>
   <br>
   <p><b>Engenheiro de Software em formação (Engenharia de Software)</b> e fundador da <b>GENS Systems</b>, com mais de duas décadas de vivência prática em tecnologia:</p>
   <ul>
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-  <summary><b>🇺🇸 [EN-US] Background & Engineering Journey (1999 — Present)</b></summary>
+  <summary><b>[EN-US] Background & Engineering Journey (1999 — Present)</b></summary>
   <br>
   <p><b>Software Engineering undergraduate</b> and founder of <b>GENS Systems</b>, combining over 25 years of hands-on technology experience with modern backend and cloud architecture:</p>
   <ul>
