@@ -1,4 +1,5 @@
-<svg width="100%" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="320" viewBox="0 0 900 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#080d1a"/>
@@ -88,4 +89,85 @@
   <text x="44" y="141" class="hero-sub">Founder @ GENS Systems • Cloud, APIs &amp; AI-Assisted Engineering</text>
 
   <g transform="translate(44, 158)">
-    <rect x="0" y="0" width="76" height="25" rx="12.
+    <rect x="0" y="0" width="76" height="25" rx="12.5" fill="#131c31" stroke="#38bdf8" stroke-width="1"/>
+    <circle cx="14" cy="12.5" r="3" fill="#f97316"/>
+    <text x="24" y="16" class="pill-txt-hi">Java</text>
+
+    <rect x="84" y="0" width="112" height="25" rx="12.5" fill="#131c31" stroke="#26334d" stroke-width="1"/>
+    <circle cx="98" cy="12.5" r="3" fill="#10b981"/>
+    <text x="108" y="16" class="pill-txt">Spring Boot</text>
+
+    <rect x="204" y="0" width="92" height="25" rx="12.5" fill="#131c31" stroke="#26334d" stroke-width="1"/>
+    <circle cx="218" cy="12.5" r="3" fill="#84cc16"/>
+    <text x="228" y="16" class="pill-txt">Swagger</text>
+
+    <rect x="304" y="0" width="92" height="25" rx="12.5" fill="#131c31" stroke="#26334d" stroke-width="1"/>
+    <circle cx="318" cy="12.5" r="3" fill="#fb7185"/>
+    <text x="328" y="16" class="pill-txt">Postman</text>
+  </g>
+
+  <g transform="translate(44, 191)">
+    <rect x="0" y="0" width="84" height="25" rx="12.5" fill="#131c31" stroke="#26334d" stroke-width="1"/>
+    <circle cx="14" cy="12.5" r="3" fill="#38bdf8"/>
+    <text x="24" y="16" class="pill-txt">Docker</text>
+
+    <rect x="92" y="0" width="106" height="25" rx="12.5" fill="#131c31" stroke="#26334d" stroke-width="1"/>
+    <circle cx="106" cy="12.5" r="3" fill="#60a5fa"/>
+    <text x="116" y="16" class="pill-txt">Kubernetes</text>
+
+    <rect x="206" y="0" width="118" height="25" rx="12.5" fill="#131c31" stroke="#10b981" stroke-width="1"/>
+    <circle cx="220" cy="12.5" r="3" fill="#fbbf24"/>
+    <text x="230" y="16" class="pill-txt-hi">AWS &amp; Azure</text>
+
+    <rect x="332" y="0" width="128" height="25" rx="12.5" fill="#131c31" stroke="#26334d" stroke-width="1"/>
+    <circle cx="346" cy="12.5" r="3" fill="#a855f7"/>
+    <text x="356" y="16" class="pill-txt">Claude &amp; Codex</text>
+  </g>
+
+  <g transform="translate(44, 238)">
+    <rect x="0" y="0" width="32" height="32" rx="8" fill="#1e1b18" stroke="#f97316" stroke-width="1.2"/>
+    <text x="16" y="21" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" font-weight="800" fill="#f97316">25+</text>
+    <text x="42" y="16" class="stat-val">Years in Tech</text>
+    <text x="42" y="31" class="stat-lbl">Systems &amp; Hardware (1999)</text>
+
+    <g transform="translate(192, 0)">
+      <rect x="0" y="0" width="32" height="32" rx="8" fill="#0f292e" stroke="#10b981" stroke-width="1.2"/>
+      <text x="16" y="21" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" font-weight="800" fill="#10b981">5y</text>
+      <text x="42" y="16" class="stat-val">Instructor</text>
+      <text x="42" y="31" class="stat-lbl">Delphi Programming</text>
+    </g>
+
+    <g transform="translate(362, 0)">
+      <rect x="0" y="0" width="32" height="32" rx="8" fill="#111d35" stroke="#38bdf8" stroke-width="1.2"/>
+      <text x="16" y="20" text-anchor="middle" font-family="monospace" font-size="11" font-weight="800" fill="#38bdf8">{ }</text>
+      <text x="42" y="16" class="stat-val">Java &amp; Cloud</text>
+      <text x="42" y="31" class="stat-lbl">Spring, AWS &amp; Azure</text>
+    </g>
+  </g>
+
+  <circle cx="735" cy="145" r="92" fill="#0b1324" stroke="#1e293b" stroke-width="2"/>
+  <circle cx="735" cy="145" r="84" fill="none" stroke="url(#ringGrad)" stroke-width="2" stroke-dasharray="14 8" class="orbit-cw"/>
+  <circle cx="735" cy="145" r="68" fill="none" stroke="#38bdf8" stroke-width="1.2" stroke-dasharray="6 10" opacity="0.6" class="orbit-ccw"/>
+
+  <g class="orbit-cw">
+    <circle cx="735" cy="145" r="84" fill="none"/>
+    <circle cx="735" cy="61" r="5" fill="#f97316"/>
+    <circle cx="819" cy="145" r="4.5" fill="#10b981"/>
+    <circle cx="651" cy="145" r="4.5" fill="#38bdf8"/>
+  </g>
+
+  <circle cx="735" cy="145" r="56" fill="#0f1b33" stroke="#26334d" stroke-width="1.5"/>
+
+  <path d="M722 114 C718 105, 728 100, 724 91" fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round" class="steam-a"/>
+  <path d="M735 112 C731 103, 741 98, 737 89" fill="none" stroke="#38bdf8" stroke-width="2.5" stroke-linecap="round" class="steam-b"/>
+  <path d="M748 114 C744 105, 754 100, 750 91" fill="none" stroke="#10b981" stroke-width="2.5" stroke-linecap="round" class="steam-c"/>
+
+  <path d="M712 123 H754 V145 C754 157, 744 165, 733 165 C722 165, 712 157, 712 145 Z" fill="#132342" stroke="#f8fafc" stroke-width="2.3"/>
+  <path d="M754 129 H762 C767 129, 770 133, 770 138 C770 143, 767 147, 762 147 H754" fill="none" stroke="#f8fafc" stroke-width="2.3"/>
+  <path d="M706 172 Q733 178 762 172" fill="none" stroke="#f97316" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="735" y="188" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="10" font-weight="800" fill="#38bdf8" letter-spacing="1.5">JAVA</text>
+
+  <rect x="665" y="226" width="140" height="26" rx="13" fill="#0d172a" stroke="#38bdf8" stroke-width="1.2"/>
+  <circle cx="681" cy="239" r="3.5" fill="#10b981"/>
+  <text x="742" y="243" text-anchor="middle" class="gens-pill">GENS Systems</text>
+</svg>
