@@ -75,9 +75,9 @@
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
     <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
     <img src="https://img.shields.io/badge/Spring_Cloud_OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="OpenFeign" />
-    <img src="https://img.shields.io/badge/Hibernate_&_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
+    <img src="https://img.shields.io/badge/Hibernate_%26_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA" />
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-    <img src="https://img.shields.io/badge/Swagger_/_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+    <img src="https://img.shields.io/badge/Swagger_%2F_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
   </p>
 
   <p><b>☁️ Cloud, DevOps & Containers</b></p>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
     <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
     <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" alt="Mockito" />
-    <img src="https://img.shields.io/badge/Scrum_&_Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
+    <img src="https://img.shields.io/badge/Scrum_%26_Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
     <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
     <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
   </p>
@@ -134,4 +134,36 @@
         <td><code>Spring Security</code> <code>JWT</code> <code>PostgreSQL</code></td>
       </tr>
       <tr>
-        <td><a href="
+        <td><a href="https://github.com/georgiosampaio/agendador-tarefas"><code>agendador-tarefas</code></a></td>
+        <td><b>PT:</b> Microsserviço de agendamento integrado via Feign Client.<br><b>EN:</b> Task scheduling microservice integrated via synchronous Feign Client.</td>
+        <td><code>OpenFeign</code> <code>MongoDB</code> <code>Spring Boot</code></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/georgiosampaio/notificacao"><code>notificacao</code></a></td>
+        <td><b>PT:</b> Serviço de mensageria e disparo de e-mails HTML dinâmicos.<br><b>EN:</b> Messaging microservice for dynamic HTML email notifications.</td>
+        <td><code>JavaMail</code> <code>Thymeleaf</code> <code>Spring Boot</code></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
+<details>
+  <summary><b>📊 /proc/metrics — Telemetria & Atividade no GitHub</b></summary>
+  <br>
+  <div align="center">
+    <a href="https://github.com/georgiosampaio">
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=georgiosampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgiosampaio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </a>
+    <br>
+    <a href="https://github.com/georgiosampaio">
+      <img src="https://streak-stats.demolab.com/?user=georgiosampaio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </a>
+  </div>
+</details>
+
+<hr>
+
+<div align="center">
+  <code>[STATUS: ONLINE] • GENS Systems — Clean Code, Solid Architecture & Continuous Evolution</code>
+</div>
