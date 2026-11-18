@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Cabeçalho estilo Terminal / Sistema -->
+  <!-- Cabeçalho estilo Terminal / Sistema (Largura ajustada para não cortar) -->
   <a href="https://github.com/georgiosampaio">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=root%40gens-systems%3A~%23+.%2Finit_profile.sh+--user%3D%22Georgio+Sampaio%22;Full+Stack+%26+Backend+Software+Engineer+%7C+Java+%26+Spring+Ecosystem;Cloud+%7C+Docker+%7C+Kubernetes+%7C+AWS+%7C+AI-Driven+Development;25%2B+Years+in+Tech+%7C+Software+Engineering+%40+GENS+Systems" alt="Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=root%40gens-systems%3A~%23+.%2Finit_profile.sh+--user%3D%22Georgio+Sampaio%22;Full+Stack+%26+Backend+Engineer+%7C+Java+%26+Spring+Ecosystem;Cloud+%7C+Docker+%7C+Kubernetes+%7C+AWS+%7C+AI-Driven+Dev;25%2B+Years+in+Tech+%7C+Software+Engineering+%40+GENS+Systems" alt="Terminal Typing" />
   </a>
 
   <!-- Barra de Navegação / Contatos -->
@@ -37,18 +37,3 @@
   "tech_journey_since": 1999,
   "core_focus": ["Microservices Architecture", "REST APIs", "Cloud & DevOps", "AI-Assisted Engineering"]
 }
-
-<!--
-**georgiosampaio/georgiosampaio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
