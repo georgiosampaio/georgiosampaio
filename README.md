@@ -118,4 +118,4 @@
 
 <h3>📊 GitHub Stats</h3>
 
-[![Georgio Sampaio GitHub Stats](stats.svg?v=20261123)](https://github.com/georgiosampaio?tab=repositories)
+[![Georgio Sampaio GitHub Stats](github-stats.svg)](https://github.com/georgiosampaio?tab=repositories)
