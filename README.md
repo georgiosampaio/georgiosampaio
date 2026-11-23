@@ -8,7 +8,7 @@
   <li>🎓 <b>Formação / Education:</b> Graduando em <b>Engenharia de Software</b> • 5 semestres de <b>Ciência da Computação</b> na <b>Universidade Estadual de Santa Cruz (UESC)</b> (2012).</li>
   <li>💻 <b>Infraestrutura &amp; Sistemas:</b> Experiência sólida desde <b>1999</b> na manutenção de computadores, laptops, redes e sistemas.</li>
   <li>👨‍🏫 <b>Docência:</b> Atuação por <b>5 anos</b> como <b>Professor de Programação em Delphi na Microlins</b>.</li>
-  <li>🚀 <b>Foco Atual:</b> Desenvolvimento Full Stack e arquitetura de microsserviços com <b>Java, Spring Boot, React, Angular, TypeScript, PostgreSQL, MongoDB, Docker, Kubernetes, AWS e Azure</b>, aplicando metodologias ágeis e desenvolvimento assistido por IA (<b>Claude / Codex</b>).</li>
+  <li>🚀 <b>Foco Atual:</b> Desenvolvimento Full Stack e arquitetura de microsserviços com <b>Java, Spring Boot, Angular, TypeScript, PostgreSQL, MongoDB, Docker, Kubernetes, AWS e Azure</b>, aplicando metodologias ágeis e desenvolvimento assistido por IA (<b>Claude / Codex</b>).</li>
 </ul>
 
 <details>
@@ -19,7 +19,7 @@
     <li>🎓 <b>Education:</b> B.Sc. in <b>Software Engineering</b> (In Progress) • 5 semesters of <b>Computer Science</b> at <b>Universidade Estadual de Santa Cruz (UESC)</b> (2012).</li>
     <li>💻 <b>Infrastructure &amp; Systems:</b> Hands-on experience since <b>1999</b> in computer/laptop hardware maintenance, networking, and systems administration.</li>
     <li>👨‍🏫 <b>Teaching:</b> Worked for <b>5 years</b> as a <b>Delphi Programming Instructor at Microlins</b>.</li>
-    <li>🚀 <b>Current Focus:</b> Full Stack development and microservices architecture with <b>Java, Spring Boot, React, Angular, TypeScript, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, and Azure</b>, leveraging Agile practices and AI-assisted development (<b>Claude / Codex</b>).</li>
+    <li>🚀 <b>Current Focus:</b> Full Stack development and microservices architecture with <b>Java, Spring Boot, Angular, TypeScript, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, and Azure</b>, leveraging Agile practices and AI-assisted development (<b>Claude / Codex</b>).</li>
   </ul>
 </details>
 
@@ -59,7 +59,7 @@
 
 <p><b>Frontend</b></p>
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
@@ -118,4 +118,4 @@
 
 <h3>📊 GitHub Stats</h3>
 
-[![Georgio Sampaio GitHub Stats](stats.svg)](https://github.com/georgiosampaio?tab=repositories)
+[![Georgio Sampaio GitHub Stats](stats.svg?v=20261123)](https://github.com/georgiosampaio?tab=repositories)
