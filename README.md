@@ -1,4 +1,8 @@
-[![Georgio Sampaio](banner.svg)](https://github.com/georgiosampaio)
+<p align="center">
+  <a href="https://github.com/georgiosampaio">
+    <img src="https://raw.githubusercontent.com/georgiosampaio/georgiosampaio/main/banner.svg?v=20261123b" alt="Georgio Sampaio" width="100%" />
+  </a>
+</p>
 
 <br>
 
@@ -118,4 +122,8 @@
 
 <h3>📊 GitHub Stats</h3>
 
-[![Georgio Sampaio GitHub Stats](github-stats.svg)](https://github.com/georgiosampaio?tab=repositories)
+<p align="center">
+  <a href="https://github.com/georgiosampaio?tab=repositories">
+    <img src="https://raw.githubusercontent.com/georgiosampaio/georgiosampaio/main/github-stats.svg?v=20261123b" alt="Georgio Sampaio GitHub Stats" width="100%" />
+  </a>
+</p>
