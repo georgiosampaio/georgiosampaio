@@ -14,7 +14,9 @@
 <details>
   <summary><b>🇺🇸 Read in English</b></summary>
   <br>
+
   <p><b>Full Stack Software Developer</b>, <b>Software Engineering</b> undergraduate, and founder of <b>GENS Web House</b> — combining over 25 years of hands-on systems and infrastructure background with modern web, API, and Cloud engineering.</p>
+
   <ul>
     <li>🎓 <b>Education:</b> B.Sc. in <b>Software Engineering</b> (In Progress) • 5 semesters of <b>Computer Science</b> at <b>Universidade Estadual de Santa Cruz (UESC)</b> (2012).</li>
     <li>💻 <b>Infrastructure &amp; Systems:</b> Hands-on experience since <b>1999</b> in computer/laptop hardware maintenance, networking, and systems administration.</li>
@@ -26,17 +28,18 @@
 <br>
 
 <h3>🌐 Connect</h3>
+
 <p>
   <a href="https://www.linkedin.com/in/georgio-sampaio-2164a9115" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:genswebhouse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/georgiosampaio?tab=repositories">
-    <img src="https://img.shields.io/badge/GENS_Web_House-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GENS Web House" />
+    <img src="https://img.shields.io/badge/GENS_Web_House-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8" alt="GENS Web House">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=georgiosampaio&label=Profile+Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=georgiosampaio&amp;label=Profile+Views&amp;color=0284c7&amp;style=for-the-badge" alt="Profile Views">
 </p>
 
 <hr>
@@ -45,37 +48,37 @@
 
 <p><b>Backend &amp; APIs</b></p>
 <p>
-  <img height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img height="40" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+  <img height="40" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=spring-boot&amp;logoColor=white" alt="Spring Boot">
 </p>
 
 <p><b>Cloud, DevOps &amp; Containers</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure">
 </p>
 
 <p><b>Frontend</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
 </p>
 
 <p><b>Databases</b></p>
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
 </p>
 
 <p><b>AI Engineering, Testing &amp; Agile</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" alt="Mockito" />
-  <img src="https://img.shields.io/badge/Scrum_%26_Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&amp;logo=junit5&amp;logoColor=white" alt="JUnit 5">
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&amp;logo=java&amp;logoColor=white" alt="Mockito">
+  <img src="https://img.shields.io/badge/Scrum_%26_Agile-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Agile">
 </p>
 
 <hr>
