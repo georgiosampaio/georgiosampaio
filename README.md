@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/georgiosampaio">
-    <img src="https://raw.githubusercontent.com/georgiosampaio/georgiosampaio/main/banner.svg?v=20261123b" alt="Georgio Sampaio" width="100%" />
-  </a>
-</p>
+[![Georgio Sampaio](capa.svg)](https://github.com/georgiosampaio)
 
 <br>
 
@@ -107,23 +103,4 @@
     </tr>
     <tr>
       <td><a href="https://github.com/georgiosampaio/agendador-tarefas"><b>Agendador de Tarefas</b></a></td>
-      <td><b>PT:</b> Microsserviço de agendamento e gerenciamento de tarefas.<br><b>EN:</b> Task scheduling and management microservice.</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>MongoDB</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/georgiosampaio/notificacao"><b>Notificação</b></a></td>
-      <td><b>PT:</b> Serviço de mensageria e disparo de e-mails HTML dinâmicos.<br><b>EN:</b> Messaging microservice for dynamic HTML email notifications.</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>Swagger</code> <code>Postman</code></td>
-    </tr>
-  </tbody>
-</table>
-
-<hr>
-
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <a href="https://github.com/georgiosampaio?tab=repositories">
-    <img src="https://raw.githubusercontent.com/georgiosampaio/georgiosampaio/main/github-stats.svg?v=20261123b" alt="Georgio Sampaio GitHub Stats" width="100%" />
-  </a>
-</p>
+      <td><b>PT:</b> Microsserviço de
