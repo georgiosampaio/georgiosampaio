@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="245" viewBox="0 0 900 245" fill="none">
+  <defs>
+    <linearGradient id="bgStats" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080d1a"/>
+      <stop offset="60%" stop-color="#0d1528"/>
+      <stop offset="100%" stop-color="#0a192f"/>
+    </linearGradient>
+    <linearGradient id="barJava" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="barTs" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="barSql" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="896" height="241" rx="16" fill="url(#bgStats)" stroke="#1e293b" stroke-width="1.5"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <!-- Cabeçalho do Painel -->
+    <circle cx="30" cy="30" r="4" fill="#10b981"/>
+    <text x="42" y="34" font-size="12" font-weight="700" fill="#e2e8f0" letter-spacing="0.8">ENGINEERING TELEMETRY &#8226; @GEORGIOSAMPAIO</text>
+    <text x="868" y="34" text-anchor="end" font-family="monospace" font-size="11" fill="#64748b">main &#8226; active</text>
+    <line x1="24" y1="48" x2="876" y2="48" stroke="#1e293b" stroke-width="1"/>
+
+    <!-- Coluna 1: Métricas de Repositório & Engenharia -->
+    <g transform="translate(24, 64)">
+      <rect x="0" y="0" width="272" height="156" rx="12" fill="#0b1324" stroke="#1e293b" stroke-width="1"/>
+      <text x="18" y="26" font-size="11" font-weight="700" fill="#94a3b8" letter-spacing="0.8">PRODUCTION FOCUS</text>
+
+      <g transform="translate(18, 44)">
+        <text x="0" y="14" font-size="12" fill="#cbd5e1">Microservices &amp; REST APIs</text>
+        <text x="236" y="14" text-anchor="end" font-family="monospace" font-size="12" font-weight="700" fill="#38bdf8">Java 21 / Spring</text>
+        <line x1="0" y1="24" x2="236" y2="24" stroke="#162238" stroke-width="1"/>
+
+        <text x="0" y="44" font-size="12" fill="#cbd5e1">Frontend Architecture</text>
+        <text x="236" y="44" text-anchor="end" font-family="monospace" font-size="12" font-weight="700" fill="#34d399">React / Angular</text>
+        <line x1="0" y1="54" x2="236" y2="54" stroke="#162238" stroke-width="1"/>
+
+        <text x="0" y="74" font-size="12" fill="#cbd5e1">Data &amp; Persistence</text>
+        <text x="236" y="74" text-anchor="end" font-family="monospace" font-size="12" font-weight="700" fill="#f8fafc">Postgres / Mongo</text>
+        <line x1="0" y1="84" x2="236" y2="84" stroke="#162238" stroke-width="1"/>
+
+        <text x="0" y="102" font-size="12" fill="#cbd5e1">Quality &amp; Delivery</text>
+        <text x="236" y="102" text-anchor="end" font-family="monospace" font-size="12" font-weight="700" fill="#fb923c">JUnit 5 / CI-CD</text>
+      </g>
+    </g>
+
+    <!-- Coluna 2: Distribuição de Stack -->
+    <g transform="translate(314, 64)">
+      <rect x="0" y="0" width="272" height="156" rx="12" fill="#0b1324" stroke="#1e293b" stroke-width="1"/>
+      <text x="18" y="26" font-size="11" font-weight="700" fill="#94a3b8" letter-spacing="0.8">PRIMARY LANGUAGES</text>
+
+      <!-- Java -->
+      <g transform="translate(18, 44)">
+        <text x="0" y="12" font-size="12" font-weight="600" fill="#f8fafc">Java &amp; Spring Boot</text>
+        <text x="236" y="12" text-anchor="end" font-family="monospace" font-size="11" fill="#fb923c">58%</text>
+        <rect x="0" y="18" width="236" height="6" rx="3" fill="#162238"/>
+        <rect x="0" y="18" width="137" height="6" rx="3" fill="url(#barJava)"/>
+      </g>
+
+      <!-- TypeScript / React / Angular -->
+      <g transform="translate(18, 82)">
+        <text x="0" y="12" font-size="12" font-weight="600" fill="#f8fafc">TypeScript / React / Angular</text>
+        <text x="236" y="12" text-anchor="end" font-family="monospace" font-size="11" fill="#38bdf8">27%</text>
+        <rect x="0" y="18" width="236" height="6" rx="3" fill="#162238"/>
+        <rect x="0" y="18" width="64" height="6" rx="3" fill="url(#barTs)"/>
+      </g>
+
+      <!-- SQL / Docker / Cloud -->
+      <g transform="translate(18, 120)">
+        <text x="0" y="12" font-size="12" font-weight="600" fill="#f8fafc">SQL, Docker &amp; Cloud</text>
+        <text x="236" y="12" text-anchor="end" font-family="monospace" font-size="11" fill="#34d399">15%</text>
+        <rect x="0" y="18" width="236" height="6" rx="3" fill="#162238"/>
+        <rect x="0" y="18" width="36" height="6" rx="3" fill="url(#barSql)"/>
+      </g>
+    </g>
+
+    <!-- Coluna 3: Cadência de Commits & Heatmap -->
+    <g transform="translate(604, 64)">
+      <rect x="0" y="0" width="272" height="156" rx="12" fill="#0b1324" stroke="#1e293b" stroke-width="1"/>
+      <text x="18" y="26" font-size="11" font-weight="700" fill="#94a3b8" letter-spacing="0.8">CONSISTENCY MATRIX</text>
+      <text x="254" y="26" text-anchor="end" font-family="monospace" font-size="10.5" fill="#10b981">2026</text>
+
+      <!-- Grid 12 colunas x 5 linhas estilo GitHub real -->
+      <g transform="translate(18, 42)">
+        <!-- Linha 1 -->
+        <rect x="0" y="0" width="14" height="14" rx="3" fill="#13233a"/>
+        <rect x="20" y="0" width="14" height="14" rx="3" fill="#0e4429"/>
+        <rect x="40" y="0" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="60" y="0" width="14" height="14" rx="3" fill="#13233a"/>
+        <rect x="80" y="0" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="100" y="0" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="120" y="0" width="14" height="14" rx="3" fill="#0e4429"/>
+        <rect x="140" y="0" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="160" y="0" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="180" y="0" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="200" y="0" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="220" y="0" width="14" height="14" rx="3" fill="#39d353"/>
+
+        <!-- Linha 2 -->
+        <rect x="0" y="19" width="14" height="14" rx="3" fill="#0e4429"/>
+        <rect x="20" y="19" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="40" y="19" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="60" y="19" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="80" y="19" width="14" height="14" rx="3" fill="#13233a"/>
+        <rect x="100" y="19" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="120" y="19" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="140" y="19" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="160" y="19" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="180" y="19" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="200" y="19" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="220" y="19" width="14" height="14" rx="3" fill="#26a641"/>
+
+        <!-- Linha 3 -->
+        <rect x="0" y="38" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="20" y="38" width="14" height="14" rx="3" fill="#13233a"/>
+        <rect x="40" y="38" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="60" y="38" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="80" y="38" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="100" y="38" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="120" y="38" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="140" y="38" width="14" height="14" rx="3" fill="#0e4429"/>
+        <rect x="160" y="38" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="180" y="38" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="200" y="38" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="220" y="38" width="14" height="14" rx="3" fill="#006d32"/>
+
+        <!-- Linha 4 -->
+        <rect x="0" y="57" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="20" y="57" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="40" y="57" width="14" height="14" rx="3" fill="#0e4429"/>
+        <rect x="60" y="57" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="80" y="57" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="100" y="57" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="120" y="57" width="14" height="14" rx="3" fill="#13233a"/>
+        <rect x="140" y="57" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="160" y="57" width="14" height="14" rx="3" fill="#006d32"/>
+        <rect x="180" y="57" width="14" height="14" rx="3" fill="#26a641"/>
+        <rect x="200" y="57" width="14" height="14" rx="3" fill="#39d353"/>
+        <rect x="220" y="57" width="14" height="14" rx="3" fill="#39d353">
+          <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <!-- Rodapé do Heatmap -->
+      <text x="18" y="138" font-size="10.5" fill="#64748b">Less</text>
+      <rect x="46" y="129" width="10" height="10" rx="2" fill="#13233a"/>
+      <rect x="60" y="129" width="10" height="10" rx="2" fill="#0e4429"/>
+      <rect x="74" y="129" width="10" height="10" rx="2" fill="#006d32"/>
+      <rect x="88" y="129" width="10" height="10" rx="2" fill="#26a641"/>
+      <rect x="102" y="129" width="10" height="10" rx="2" fill="#39d353"/>
+      <text x="118" y="138" font-size="10.5" fill="#64748b">More</text>
+      <text x="254" y="138" text-anchor="end" font-family="monospace" font-size="10.5" font-weight="700" fill="#38bdf8">Daily Build</text>
+    </g>
+  </g>
+</svg>
