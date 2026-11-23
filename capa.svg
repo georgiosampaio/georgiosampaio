@@ -111,19 +111,3 @@
 
   <g transform="translate(44, 250)">
     <rect x="0" y="0" width="32" height="32" rx="8" fill="#1e1b18" stroke="#f97316" stroke-width="1.2"/>
-    <text x="16" y="21" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#f97316">25+</text>
-    <text x="42" y="16" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#f8fafc">Years in Tech</text>
-    <text x="42" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">Systems &amp; Hardware (1999)</text>
-
-    <g transform="translate(192, 0)">
-      <rect x="0" y="0" width="32" height="32" rx="8" fill="#0f292e" stroke="#10b981" stroke-width="1.2"/>
-      <text x="16" y="21" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" fill="#10b981">5y</text>
-      <text x="42" y="16" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#f8fafc">Instructor</text>
-      <text x="42" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">Delphi Programming</text>
-    </g>
-
-    <g transform="translate(362, 0)">
-      <rect x="0" y="0" width="32" height="32" rx="8" fill="#111d35" stroke="#38bdf8" stroke-width="1.2"/>
-      <text x="16" y="20" text-anchor="middle" font-family="monospace" font-size="11" font-weight="800" fill="#38bdf8">{ }</text>
-      <text x="42" y="16" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#f8fafc">Full Stack</text>
-      <text x="42" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">Java, Angular &
