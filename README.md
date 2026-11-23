@@ -1,134 +1,56 @@
-<div align="center">
-  <a href="https://github.com/georgiosampaio">
-    <img src="./banner.svg?v=2" alt="Georgio Sampaio" width="100%" />
-  </a>
-</div>
+<svg width="900" height="320" viewBox="0 0 900 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080d1a"/>
+      <stop offset="55%" stop-color="#0d1528"/>
+      <stop offset="100%" stop-color="#0a192f"/>
+    </linearGradient>
+    <radialGradient id="glowRight" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.22"/>
+      <stop offset="60%" stop-color="#10b981" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#080d1a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
 
-<br>
+  <rect x="2" y="2" width="896" height="316" rx="18" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5"/>
 
-<p>Desenvolvedor de Software <b>Full Stack</b>, graduando em <b>Engenharia de Software</b> e fundador da <b>GENS Systems</b> — unindo mais de 25 anos de vivência prática em infraestrutura e sistemas à engenharia moderna de aplicações web, APIs e Cloud.</p>
+  <g stroke="#38bdf8" stroke-width="0.8" opacity="0.16">
+    <line x1="510" y1="35" x2="585" y2="75"/>
+    <line x1="585" y1="75" x2="640" y2="40"/>
+    <line x1="585" y1="75" x2="560" y2="150"/>
+    <line x1="560" y1="150" x2="625" y2="215"/>
+    <line x1="560" y1="150" x2="495" y2="210"/>
+    <line x1="625" y1="215" x2="575" y2="280"/>
+    <line x1="820" y1="45" x2="865" y2="105"/>
+    <line x1="865" y1="105" x2="845" y2="225"/>
+    <line x1="845" y1="225" x2="795" y2="285"/>
+  </g>
 
-<ul>
-  <li>🎓 <b>Formação / Education:</b> Graduando em <b>Engenharia de Software</b> • 5 semestres de <b>Ciência da Computação</b> na <b>Universidade Estadual de Santa Cruz (UESC)</b> (2012).</li>
-  <li>💻 <b>Infraestrutura &amp; Sistemas:</b> Experiência sólida desde <b>1999</b> na manutenção de computadores, laptops, redes e sistemas.</li>
-  <li>👨‍🏫 <b>Docência:</b> Atuação por <b>5 anos</b> como <b>Professor de Programação em Delphi na Microlins</b>.</li>
-  <li>🚀 <b>Foco Atual:</b> Desenvolvimento Full Stack e arquitetura de microsserviços com <b>Java, Spring Boot, React, TypeScript, PostgreSQL, MongoDB, Docker, Kubernetes, AWS e Azure</b>, aplicando metodologias ágeis e desenvolvimento assistido por IA (<b>Claude / Codex</b>).</li>
-</ul>
-
-<details>
-  <summary><b>🇺🇸 Read in English</b></summary>
-  <br>
-  <p><b>Full Stack Software Developer</b>, <b>Software Engineering</b> undergraduate, and founder of <b>GENS Systems</b> — combining over 25 years of hands-on systems and infrastructure background with modern web, API, and Cloud engineering.</p>
-  <ul>
-    <li>🎓 <b>Education:</b> B.Sc. in <b>Software Engineering</b> (In Progress) • 5 semesters of <b>Computer Science</b> at <b>Universidade Estadual de Santa Cruz (UESC)</b> (2012).</li>
-    <li>💻 <b>Infrastructure &amp; Systems:</b> Hands-on experience since <b>1999</b> in computer/laptop hardware maintenance, networking, and systems administration.</li>
-    <li>👨‍🏫 <b>Teaching:</b> Worked for <b>5 years</b> as a <b>Delphi Programming Instructor at Microlins</b>.</li>
-    <li>🚀 <b>Current Focus:</b> Full Stack development and microservices architecture with <b>Java, Spring Boot, React, TypeScript, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, and Azure</b>, leveraging Agile practices and AI-assisted development (<b>Claude / Codex</b>).</li>
-  </ul>
-</details>
-
-<br>
-
-<h3>🌐 Connect</h3>
-<p>
-  <a href="https://www.linkedin.com/in/georgio-sampaio-2164a9115" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:genswebhouse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/georgiosampaio?tab=repositories">
-    <img src="https://img.shields.io/badge/GENS_Systems-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GENS Systems" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=georgiosampaio&label=Profile+Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<hr>
-
-<h3>🛠️ Tech Stack</h3>
-
-<p><b>Backend &amp; APIs</b></p>
-<p>
-  <img height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img height="40" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-</p>
-
-<p><b>Cloud, DevOps &amp; Containers</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-</p>
-
-<p><b>Frontend</b></p>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
-
-<p><b>Databases</b></p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-<p><b>AI Engineering, Testing &amp; Agile</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=java&logoColor=white" alt="Mockito" />
-  <img src="https://img.shields.io/badge/Scrum_%26_Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
-</p>
-
-<hr>
-
-<h3>🚀 Projetos em Destaque / Featured Projects</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Projeto</th>
-      <th align="left">Descrição (PT / EN)</th>
-      <th align="left">Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/georgiosampaio/fleetapi"><b>FleetAPI</b></a></td>
-      <td><b>PT:</b> API de gestão de frotas com tratamento global de exceções e testes unitários.<br><b>EN:</b> Fleet management microservice with global exception handling and unit testing.</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>JUnit 5</code> <code>Mockito</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/georgiosampaio/identity-api"><b>Identity API</b></a></td>
-      <td><b>PT:</b> Serviço centralizado de autenticação, autorização e gerenciamento de usuários.<br><b>EN:</b> Centralized authentication, authorization, and user management microservice.</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>PostgreSQL</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/georgiosampaio/agendador-tarefas"><b>Agendador de Tarefas</b></a></td>
-      <td><b>PT:</b> Microsserviço de agendamento e gerenciamento de tarefas.<br><b>EN:</b> Task scheduling and management microservice.</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>MongoDB</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/georgiosampaio/notificacao"><b>Notificação</b></a></td>
-      <td><b>PT:</b> Serviço de mensageria e disparo de e-mails HTML dinâmicos.<br><b>EN:</b> Messaging microservice for dynamic HTML email notifications.</td>
-      <td><code>Java</code> <code>Spring Boot</code> <code>Swagger</code> <code>Postman</code></td>
-    </tr>
-  </tbody>
-</table>
-
-<hr>
-
-<h3>📊 GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/georgiosampaio">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=georgiosampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgiosampaio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-  <br>
-  <a href="https://github.com/georgiosampaio">
-    <img src="https://streak-stats.demolab.com/?user=georgiosampaio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+  <g fill="#38bdf8">
+    <circle cx="510" cy="35" r="2.5">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="585" cy="75" r="3">
+      <animate attributeName="opacity" values="0.9;0.2;0.9" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="640" cy="40" r="2">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="560" cy="150" r="3">
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="625" cy="215" r="2.5">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="495" cy="210" r="2">
+      <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="575" cy="280" r="2.5">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx
