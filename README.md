@@ -118,13 +118,4 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<div align="center">
-  <a href="https://github.com/georgiosampaio">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=georgiosampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgiosampaio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-  <br>
-  <a href="https://github.com/georgiosampaio">
-    <img src="https://streak-stats.demolab.com/?user=georgiosampaio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+[![Georgio Sampaio GitHub Stats](stats.svg)](https://github.com/georgiosampaio?tab=repositories)
